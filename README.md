@@ -10,9 +10,9 @@ We fine-tuned their model with a small dataset (30 songs per genre) and test it 
 
 ## Slides and Report
 
-- [Slides](https://github.com/jsalbert/music-genre-classification/blob/master/Slides.pdf)
+- [Slides](https://github.com/jsalbert/Music-Genre-Classification-with-Deep-Learning/blob/master/Slides.pdf)
 
-- [Report](https://github.com/jsalbert/music-genre-classification/blob/master/Music_genre_recognition.pdf)
+- [Report](https://github.com/Anshuman265/Music-Genre-Classification-with-Deep-Learning/blob/main/Music_genre_recognition.pdf)
 
 ## Code 
 
